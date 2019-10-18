@@ -5,3 +5,4 @@ A simple javescripe calculator
 * Lil Zing @ Soundcloud
 * Alex Hall
 * David Biggs
+* Feyi
