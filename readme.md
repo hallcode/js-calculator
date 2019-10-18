@@ -2,6 +2,7 @@
 A simple javescripe calculator
 
 * Josh thomson
-* Yasai Yakisoba (rygle the dominar)
+* Lil Zing @ Soundcloud
 * Alex Hall
-*
+* David Biggs
+* Feyi
