@@ -4,3 +4,5 @@ A simple javescripe calculator
 * Josh
 * Yasai Yakisoba
 * Alex Hall
+
+* BiggsD
