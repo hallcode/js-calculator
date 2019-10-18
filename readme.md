@@ -2,7 +2,7 @@
 A simple javescripe calculator
 
 * Josh
-* Yasai Yakisoba
+* Lil Zing @ Soundcloud
 * Alex Hall
 * David Biggs
 * Feyi
