@@ -1,6 +1,7 @@
 # JS Calculator
 A simple javescripe calculator
 
-* Josh
-* Yasai Yakisoba
+* Josh thomson
+* Yasai Yakisoba (rygle the dominar)
 * Alex Hall
+*
