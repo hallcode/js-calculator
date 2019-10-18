@@ -1,6 +1,6 @@
 # JS Calculator
 A simple javescripe calculator
 
-*Josh
-*The yak
+* Josh
+* The yak
 * Alex Hall
