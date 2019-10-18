@@ -2,5 +2,5 @@
 A simple javescripe calculator
 
 * Josh
-* The yak
+* Yasai Yakisoba
 * Alex Hall
