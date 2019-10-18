@@ -1,7 +1,7 @@
 # JS Calculator
 A simple javescripe calculator
 
-* Josh
+* Josh thomson
 * Lil Zing @ Soundcloud
 * Alex Hall
 * David Biggs
