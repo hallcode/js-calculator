@@ -5,3 +5,4 @@ A simple javescripe calculator
 * Yasai Yakisoba
 * Alex Hall
 * David Biggs
+* Feyi
