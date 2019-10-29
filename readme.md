@@ -6,3 +6,4 @@ A simple javescripe calculator
 * Alex Hall
 * David Biggs
 * Feyi
+* Aaron Bezkorowajnyj
